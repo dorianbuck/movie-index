@@ -1,0 +1,18 @@
+{
+  "access-control-allow-credentials": "true",
+  "access-control-allow-origin": "*",
+  "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400",
+  "cf-cache-status": "DYNAMIC",
+  "cf-ray": "6b3283326d6e4c08-AMS",
+  "connection": "keep-alive",
+  "content-length": "2938",
+  "content-type": "application/json",
+  "date": "Wed, 24 Nov 2021 12:06:39 GMT",
+  "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+  "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+  "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=NaxMvpse4qcHtF0LiMgDW4TmeKE4R6wqd%2B9w9nGXKuOmeOvZPh%2BvdVsUlEJm6k4I%2BbnSeOYHxO3rejGXh4dI1oOD8OmXRaJWG%2Bs1Ydq9%2FbVnn1Qnlam1OlQjqnj%2F\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+  "server": "RapidAPI-1.2.8",
+  "vary": "Accept-Encoding",
+  "x-rapidapi-region": "AWS - eu-central-1",
+  "x-rapidapi-version": "1.2.8"
+}
